@@ -1,2 +1,3 @@
-# fraud-detection
-Using the client’s billing history, the aim of the project is to detect and recognize clients involved in fraudulent activities using a logistic regression model.
+# Fraud Detection
+The goal of this project is to build a machine learning model that can identify customers who are likely to commit fraud by tampering with their electricity or gas meters. The data provided includes the billing history and demographic information of about 16000 customers. 
+I performed exploratory data analysis to understand the data, clean it, and extract relevant features. I then trained and evaluated several regression models to predict the probability of fraud for each customer. I also visualized and interpreted the results to gain insights into the factors that influence fraud behavior.
